@@ -3,6 +3,19 @@
 An AI-powered pet recognition system that classifies uploaded images as **Dog** or **Cat** using **ResNet18 Transfer Learning**. Based on the prediction, the system simulates an automated smart pet door that either **opens** or remains **locked**.
 
 ---
+# 🐾 Smart Pet Access Control System
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-ResNet18-orange)
+![Transfer Learning](https://img.shields.io/badge/Transfer-Learning-blueviolet)
+
+An AI-powered pet recognition system that classifies uploaded images as **Dog** or **Cat** using **ResNet18 Transfer Learning**.
+---
 
 ## 🚀 Project Overview
 
